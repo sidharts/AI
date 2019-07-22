@@ -9,11 +9,15 @@ contains an integer n specifying the number of clauses in the text file. Each li
 an axiom, which is written as an implication whose premise is a conjunction of positive literals
 and whose conclusions is a single positive literal. It
 has the form:
+
 p1 ∧ p2 ∧...∧ pn ⇒Q
+
 Output: If you can prove the query, then the answer will be YES, otherwise, NO (with NO
 meaning that you either disapprove the query, or the knowledge base is incomplete to determine
 the query).
+
 Sample Input:
+
 A_Witch@
 7@
 Made_Of_Wood&gt;A_Witch@
