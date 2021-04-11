@@ -1,16 +1,10 @@
 AAA@
-
 6@
-
 BBB>AAA@
-CCC>AAA
-@
+CCC>AAA@
 DDD>AAA@
-
-~BBB
-@
+~BBB@
 ~DDD@
-
 CCC#
 
 A_Witch@
@@ -25,18 +19,13 @@ Turned_Me_Into_A_Newt#
 
 
 AAA@
-
 6@
-
 BBB>AAA@
-CCC>AAA
-@
+CCC>AAA@
 DDD>AAA@
 
-~BBB
-@
+~BBB@
 ~DDD@
-
 CCC#
 
 A_Witch@
@@ -50,18 +39,12 @@ Has_A_Wart@
 Turned_Me_Into_A_Newt#
 
 AAA@
-
 6@
-
 BBB>AAA@
-CCC>AAA
-@
+CCC>AAA@
 DDD>AAA@
-
-~BBB
-@
+~BBB@
 ~DDD@
-
 CCC#
 
 a&b@
